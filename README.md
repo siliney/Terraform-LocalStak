@@ -16,8 +16,13 @@
 ## 🚀 Quick Start
 
 ### Prerequisites
+📋 **[Complete Installation Guide](PREREQUISITES.md)** - Follow detailed setup instructions for your OS
+
+**Required Tools:**
 - Docker Desktop
+- Terraform
 - Git
+- AWS CLI
 - Text editor (VS Code recommended)
 
 ### Setup
