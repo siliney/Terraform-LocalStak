@@ -15,7 +15,7 @@
 **📖 [Read the detailed guide first](DETAILED_GUIDE.md#day-1-2-understanding-terraform-fundamentals)**
 
 ```bash
-cd beginner-week1/day1-hello
+cd beginner-week1/day1
 terraform init
 terraform plan
 terraform apply
@@ -26,7 +26,7 @@ terraform output
 **📖 [Follow the LocalStack tutorial](DETAILED_GUIDE.md#day-3-4-introduction-to-localstack)**
 
 ```bash
-cd beginner-week1/day3-localstack
+cd beginner-week1/day3
 docker-compose up -d
 terraform init
 terraform apply
@@ -36,7 +36,7 @@ terraform apply
 **📖 [Learn about resources and state](DETAILED_GUIDE.md#day-5-7-understanding-resources-and-state)**
 
 ```bash
-cd beginner-week1/day5-s3
+cd beginner-week1/day5
 terraform init
 terraform apply
 aws --endpoint-url=http://localhost:4566 s3 ls
